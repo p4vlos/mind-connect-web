@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/icon-64.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Mind Connect                              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The current coronavirus pandemic has resulted in social distancing measures that have separated us from our friends, family members and those who we turn to for emotional support. This has left many unaware of or unable to access timely support for our mental health. Long term psychological problems as a result of the pandemic include feelings of loneliness, anxiety, depression and mental fatigue.
+app_description                           : The current coronavirus pandemic has resulted in social distancing measures that have separated us from our friends, family members and those who we turn to for emotional support. This has left many unaware of or unable to access timely support for our mental health.
 
 enable_smart_app_banner                   : false                     # Set to true to show a smart app banner at top of page on mobile devices.
 

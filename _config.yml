@@ -34,8 +34,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : The Problem
+    description                           : The pandemic has undeniably changed the fabric of our society, in ways we have yet to realise. Financial uncertainty, physical isolation from our social circle, worry for our loved ones and work-life frustrations are among those that plague us. Perhaps the most unsettling effect of the pandemic is one that poses a direct impact on our mental health. Those with existing mental health issues will face worsening conditions in the face of poor access to timely and appropriate support. (WHO, 2020).
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview

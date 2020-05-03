@@ -42,32 +42,32 @@ features                                  :
     description                           : Connect, Match and Keep your mind healthy/ Separated physically, connecting by our minds.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Creation
+    description                           : Everyone’s mental health is unique, why shouldn’t our support be? MindConnect is the smartest way to connect you to accredited, trained volunteers to provide emotional support and companionship using a matching-system and daily mood assessment tracking. Ultimately tackling the effects of loneliness and feelings of anxiety or depression.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Delivery
+    description                           : Virtualization of mental health support using an app-based platform, allowing scalability of mental health support (IOS and Android) via the following features, separated into high level features and additional features.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : One-to-one support
+    description                           : A volunteer trained in wellbeing, with DBS certification, will be matched using AI volunteer-user matching system. According to research, therapists with modalities highly similar to their clients led to the most positive psychological outcomes (Winter, 1998).
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Mood tracker
+    description                           : Feelings and mood can be logged day to day using interactive evidence based 12-item MDMQ Assessment Questionnaire. This is recorded to inform volunteers and users of progress to enable timely support and future research purposes. 
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Group support
+    description                           : An ‘explore’ page for inspirational and educational material, regulated by volunteers; latest evidence based recommendations, general mental wellbeing advice/tips, lifestyle recommendations (books, exercise etc.) and blog posts.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Social Links
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : The Future of Mind Connect
+    description                           : Long term effects of the pandemic on psychological wellbeing are yet to be realised, but will be profound, so we assume demand for our solution will inevitably increase. The future of MindConnect from the hackathon stage where we have developed an MVP and conducted alpha testing towards app store and implementation.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
